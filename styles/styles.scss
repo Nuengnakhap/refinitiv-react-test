@@ -1,0 +1,11 @@
+$backgroundColor: #2ecc71;
+
+.app {
+  background-color: $backgroundColor;
+}
+
+body {
+  margin: 0;
+}
+
+@import "question-1"
